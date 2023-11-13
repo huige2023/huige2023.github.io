@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>周光辉的个人网页</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        h1 {
+            color: #007bff;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        
+       
+<h1>周光辉</h1>
+    </header>
+
+    <section>
+        <h2>关于我</h2>
+        <p>你好！我是周光辉，专业从事园林维护工作。通过精湛的技能和热情的服务，我致力于为客户打造美丽宜人的园林空间。</p>
+    </section>
+
+    
+
+<section>
+        <h2>我的专长</h2>
+        <p>园林维护是我的主要专长，我注重细节，擅长植物养护、景观设计和绿化方案的制定。我的目标是通过精心的工作，为每个项目带来独特的魅力。</p>
+    
+    </
+</section>
+
+    
+
+   
+<section>
+        <h2>业务能力和影响力</h2>
+        
+        <
+<p>我希望通过展示我的业务能力，让更多人了解我的园林维护专业知识。同时，我努力扩大业务影响力，与更多合作伙伴和客户建立长期的合作关系。</p>
+    
+   
+</section>
+
+    
+
+<footer>
+        <p>&copy; 2023 周光辉 | 园林维护专家</p>
+    </footer>
+
+</
+</body>
+
+</html>
